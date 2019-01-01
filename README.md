@@ -8,3 +8,5 @@ Features:
  - 24-bit address space / 64 MB memory
  - tty output
  - all operations can be conditional (though most are useless!)
+
+![logisim-evolution screenshot](hello.png?raw=true "Logisim-evolution screenshot")
